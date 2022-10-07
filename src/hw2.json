@@ -1,0 +1,93 @@
+[
+    {"name": "USA", 
+    "GDP": 25346805
+    },
+    {"name": "China", 
+    "GDP": 19911593
+    },
+    {"name": "Japan", 
+    "GDP": 4912147
+    },
+    {"name": "Germany", 
+    "GDP": 4256540
+    },
+    {"name": "India", 
+    "GDP": 3534743
+    },
+    {"name": "United Kingdom", 
+    "GDP": 3376003
+    },
+    {"name": "France", 
+    "GDP": 2936702
+    },
+    {"name": "Canada", 
+    "GDP": 2221218
+    },
+    {"name": "Italy", 
+    "GDP": 2058330
+    },
+    {"name": "Brazil", 
+    "GDP": 1833274
+    },
+    {"name": "Russia", 
+    "GDP": 1829050
+    },
+    {"name": "Korea", 
+    "GDP": 1804680
+    },
+    {"name": "Australia", 
+    "GDP": 1323421
+    },
+    {"name": "Spain", 
+    "GDP": 1323421
+    },
+    {"name": "Mexico", 
+    "GDP": 1150887
+    },
+    {"name": "Indonesia", 
+    "GDP": 1042587
+    },
+    {"name": "Turkey", 
+    "GDP": 851549
+    },
+    {"name": "Netherlands", 
+    "GDP": 830572
+    },
+    {"name": "Saudi Arabia", 
+    "GDP": 685738
+    },
+    {"name": "Switzerland", 
+    "GDP": 674680
+    },
+    {"name": "Argentina", 
+    "GDP": 634680
+    },
+    {"name": "Sweden", 
+    "GDP": 534680
+    },
+    {"name": "Poland", 
+    "GDP": 524680
+    },
+    {"name": "Belgium", 
+    "GDP": 494680
+    },
+    {"name": "Thailand", 
+    "GDP": 454680
+    },
+    {"name": "Iran", 
+    "GDP": 453680
+    },
+    {"name": "Austria", 
+    "GDP": 414680
+    },
+    {"name": "Norway", 
+    "GDP": 394680
+    },
+    {"name": "UAE", 
+    "GDP": 384680
+    },
+    {"name": "Nigeria", 
+    "GDP": 374680
+    }
+    
+]
